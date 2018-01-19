@@ -1,0 +1,4 @@
+I:\提取谷底线所有代码\提取谷底线\LeastSquaresFitStraightLine\LeastSquaresFitStraightLine\bin\Release\LeastSquaresFitStraightLine.dll
+I:\提取谷底线所有代码\提取谷底线\LeastSquaresFitStraightLine\LeastSquaresFitStraightLine\bin\Release\LeastSquaresFitStraightLine.pdb
+I:\提取谷底线所有代码\提取谷底线\LeastSquaresFitStraightLine\LeastSquaresFitStraightLine\obj\Release\LeastSquaresFitStraightLine.dll
+I:\提取谷底线所有代码\提取谷底线\LeastSquaresFitStraightLine\LeastSquaresFitStraightLine\obj\Release\LeastSquaresFitStraightLine.pdb

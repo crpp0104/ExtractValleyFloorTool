@@ -1,0 +1,20 @@
+﻿<ESRI.Configuration xmlns="http://schemas.esri.com/Desktop/AddIns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>ExtractValleyFloorAddin</Name>
+  <AddInID>{888bfe18-8280-40bb-920e-569ed42b6814}</AddInID>
+  <Description>Use this tool to extract vector format trough lines on a digital elevation model (DEM).</Description>
+  <Version>1.0</Version>
+  <Image>Images\ValleyBottomLineAddin.png</Image>
+  <Author></Author>
+  <Company></Company>
+  <Date>2017/4/4</Date>
+  <Targets>
+    <Target name="Desktop" version="10.1" />
+  </Targets>
+  <AddIn language="CLR" library="ValleyBottomLineAddin.dll" namespace="ValleyBottomLineAddin">
+    <ArcMap>
+      <Commands>
+        <Button id="ValleyBottomLineAddin_GetValleyBottomLineButton" class="GetValleyBottomLineButton" message="点击按钮，打开提取谷底线参数设置窗口。" caption="提取谷底线工具" tip="" category="Add-In ValleyBottomlineControls" image="Images\GetValleyBottomLineButton.png" />
+      </Commands>
+    </ArcMap>
+  </AddIn>
+</ESRI.Configuration>
